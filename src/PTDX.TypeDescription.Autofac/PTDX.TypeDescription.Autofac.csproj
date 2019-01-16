@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>PretenderX</Authors>
+    <Company>PTDX</Company>
+    <Copyright>PTDX</Copyright>
+    <PackageLicenseUrl>https://github.com/PretenderX/PTDX.TypeDescription/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/PretenderX/PTDX.TypeDescription</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/PretenderX/PTDX.TypeDescription</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>Initial</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
